@@ -1,0 +1,42 @@
+# Virtual environments and local Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.streamlit/secrets.toml
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated results / local-only artifacts
+outputs/
+reports/generated/
+evaluation-results.csv
+evaluation-ai-results.csv
+docuguard-decisions.csv
+*.log
+TEST_FIX_README.md
+
+# Local source archives, download copies, and model weights
+*.zip
+*.tar.gz
+*.gguf
+*.safetensors
+
+# Private assignment instructions and local submission notes
+ORIGINAL_TASK_BRIEF.md
+submission-private/
+docuguard-evidence-audit.csv

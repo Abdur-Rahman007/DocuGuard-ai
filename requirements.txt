@@ -1,0 +1,8 @@
+# Reproducible direct dependencies for the Streamlit Community Cloud demo.
+# Deployment target: Python 3.12. Local Windows can keep Python 3.14.4.
+# Ollama / Qwen are optional local services, not Python dependencies.
+PyMuPDF==1.28.2
+streamlit==1.66.1
+langgraph==1.2.19
+pydantic==2.14.2
+pytest==9.0.2

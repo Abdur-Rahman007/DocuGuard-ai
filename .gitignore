@@ -40,3 +40,7 @@ TEST_FIX_README.md
 ORIGINAL_TASK_BRIEF.md
 submission-private/
 docuguard-evidence-audit.csv
+
+# Additional local files
+OllamaModels/
+docuguard-decisions*.csv

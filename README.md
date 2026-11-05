@@ -41,8 +41,7 @@ If you already have a working `.venv`, **do not recreate it**. Install/verify th
 3. Start Streamlit on the **same computer**, open **Local AI review**, select a supplied sample, and run the evidence check.
 4. The local model may still make mistakes. Source-quote checks catch some errors, while the baseline rule engine remains authoritative.
 
-**Public hosting:** Streamlit Community Cloud cannot access Ollama installed on a personal laptop. A hosted copy will demonstrate the baseline checker, and show local AI as unavailable unless Ollama runs on that host. Details: [DEPLOYMENT.md](DEPLOYMENT.md). A live URL is added only after deployment is verified; no link is claimed here.
-
+**Public hosting:** Streamlit Community Cloud cannot access Ollama installed on a personal laptop. A hosted copy will demonstrate the baseline checker, and show local AI as unavailable unless Ollama runs on that host. Details: [DEPLOYMENT.md](DEPLOYMENT.md). **Live Demo:** [Try DocuGuard AI](https://docuguard.streamlit.app/)
 ## Supplied-sample results
 
 | Document | Decision | Key finding |

@@ -97,6 +97,8 @@ DEPLOYMENT.md                    Cloud deployment instructions
 
 ## Use of AI tools
 
-AI assistants were used to plan, implement, explain, and review the project. Critical policy checks were implemented deterministically, and findings were checked through automated and manual validation. The applicant should review all code and be prepared to explain or modify it in the interview.
+## Use of AI Tools
 
-*BIAI's sample files are fictional and are used only for this hiring assessment. There is no official answer key in the provided pack.*
+## Use of AI Tools
+
+AI assistants (ChatGPT and Claude) were used to support project planning, code development, debugging, and testing. The compliance decisions are handled by a deterministic rule engine, while the optional local Qwen2.5 model assists with interpreting document wording. Automated tests, sample evaluations, and evidence verification were used to validate the implementation.

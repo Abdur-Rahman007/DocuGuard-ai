@@ -97,8 +97,4 @@ DEPLOYMENT.md                    Cloud deployment instructions
 
 ## Use of AI tools
 
-## Use of AI Tools
-
-## Use of AI Tools
-
 AI assistants (ChatGPT and Claude) were used to support project planning, code development, debugging, and testing. The compliance decisions are handled by a deterministic rule engine, while the optional local Qwen2.5 model assists with interpreting document wording. Automated tests, sample evaluations, and evidence verification were used to validate the implementation.
